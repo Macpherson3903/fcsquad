@@ -1,0 +1,7 @@
+Analyzing FCSquad...                                            
+
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/results_screen.dart:112:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/results_screen.dart:169:39 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/role_selection_modal.dart:89:35 • deprecated_member_use
+
+3 issues found. (ran in 3.9s)

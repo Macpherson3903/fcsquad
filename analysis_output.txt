@@ -1,0 +1,29 @@
+Analyzing FCSquad...                                            
+
+warning • Unused import: '../theme/app_colors.dart' • lib/models/match_history.dart:3:8 • unused_import
+   info • Statements in an if should be enclosed in a block • lib/providers/result_provider.dart:20:7 • curly_braces_in_flow_control_structures
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/results_screen.dart:189:33 • deprecated_member_use
+   info • 'value' is deprecated and shouldn't be used. Use component accessors like .r or .g, or toARGB32 for an explicit conversion • lib/screens/role_selection_screen.dart:106:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/role_selection_screen.dart:382:33 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/update_player_screen.dart:198:51 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:306:35 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:324:54 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:438:60 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:511:35 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:530:56 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:678:62 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:745:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:747:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:809:32 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:810:25 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:813:34 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/vault_history_screen.dart:814:27 • deprecated_member_use
+   info • 'value' is deprecated and shouldn't be used. Use component accessors like .r or .g, or toARGB32 for an explicit conversion • lib/services/team_balancer.dart:104:73 • deprecated_member_use
+   info • Angle brackets will be interpreted as HTML • tool/bump_version.dart:4:44 • unintended_html_in_doc_comment
+   info • Don't invoke 'print' in production code • tool/bump_version.dart:7:5 • avoid_print
+   info • Don't invoke 'print' in production code • tool/bump_version.dart:15:5 • avoid_print
+   info • Don't invoke 'print' in production code • tool/bump_version.dart:33:5 • avoid_print
+   info • Don't invoke 'print' in production code • tool/bump_version.dart:73:7 • avoid_print
+   info • Use interpolation to compose strings and values • tool/bump_version.dart:81:33 • prefer_interpolation_to_compose_strings
+   info • Don't invoke 'print' in production code • tool/bump_version.dart:82:3 • avoid_print
+

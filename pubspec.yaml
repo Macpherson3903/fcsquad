@@ -1,0 +1,47 @@
+name: fc_squad
+description: Random Team Shuffle — balance football squads and track match stats.
+
+publish_to: "none"
+
+version: 1.0.0+20
+
+environment:
+  sdk: ^3.10.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^3.3.1
+  uuid: ^4.5.3
+  flutter_slidable: ^4.0.3
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  share_plus: ^12.0.0
+  intl: ^0.19.0
+  tutorial_coach_mark: ^1.2.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.13
+  integration_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Montserrat-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Montserrat-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Montserrat-Bold.ttf
+          weight: 700
