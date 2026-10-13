@@ -1,9 +1,9 @@
-name: fc_squad
+name: Random Team Shuffle
 description: Random Team Shuffle — balance football squads and track match stats.
 
 publish_to: "none"
 
-version: 1.0.0+20
+version: 1.0.0+1
 
 environment:
   sdk: ^3.10.3
